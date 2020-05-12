@@ -23,6 +23,8 @@ textarea{
 
 .description{
   white-space: pre-wrap;
+  border: solid;
+  border-radius: 15px;
 }
 
 .time-block{
@@ -61,7 +63,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: rgb(6, 213, 116);
   color: white;
 }
 
@@ -70,11 +72,3 @@ textarea{
   transition: all .3s ease-in-out;
 }
 
-.Timeblocks {
-  float: left;
-
-}
-
-.save-buttons{
-  float: left;
-}

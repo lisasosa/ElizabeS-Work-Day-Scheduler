@@ -25,6 +25,10 @@ Add a clear button so that when en event is compete be able to delete it or mayb
 Challenges:
 code is lengthy and there is pleanty of room for improvement.  Ideally would have loved to be able to use jquery and loops to shorten and clean up the code but did not feel confortable doing so.  I'm looking forward to be able overcome these challenges as well as enhance this app.
 
+App Image:
+Work-day-scheduler-app-img.png
+
+
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
